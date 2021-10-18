@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+
+    width: 100vw;
+}
+.header-site {
+    background-image: url(../_imagens/herbs-1300.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+.row{
+    height: 400px;
+}
+
+
+.text-center {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.lead-text-center {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+}
+/*Formatação tabelas*/
+#tabelaCentro {
+    border: none;
+    border-spacing: 0px;
+   
+    padding-top: 50px;
+    padding-bottom: 200px;
+    width: 100vw;
+    height: auto;
+    margin-left: 500px;
+}
+.centro {
+    border: none;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.centro-1 {
+    color: #070707;
+    vertical-align: middle;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    padding-top: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+#esquerda{
+    position: relative;
+    margin-left: 100px;
+    margin-top: -340px;
+    padding-top: 150x;
+    padding-bottom: 200px;
+}
+.fot1{
+    border: none;
+    width: 200px;
+    height:200px;
+}
+.imagen {
+    position: relative;
+    border: 8px solid #ffffff;
+    box-shadow: 1px 1px 4px #000;
+    width: 300px;
+    height: 200px;
+}
+.text-center1 {
+    width: 200px;
+    height: auto;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    vertical-align: middle;
+}
+.text-just{
+    width: 200px;
+    height: auto;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    vertical-align: middle;
+}
+#centro {
+    display: block;
+    position: relative;
+    margin-left: 500px;
+    margin-top: -340px;
+    padding-bottom: 100px;
+}
+.fot2{
+    border: none;
+    width: 200px;
+    height:200px;
+}
+
+#direita{
+    display: block;
+    position: relative;
+    margin-left: 900px;
+    margin-top: -340px;
+    padding-bottom: 100px;
+}
+.img-site {
+    background-image: url(../_imagens/natureza-nevoeiro-mata-wallpaper.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.footer-site {
+    background-color: #333333;
+    color: #ffffff;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+

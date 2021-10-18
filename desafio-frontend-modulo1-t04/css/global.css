@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ibarra real nova;
+    color: #33323D;
+}
+
+/* MENU NAVEGAÇÃO */
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.menu {
+    width: 76vw;
+    height: 32px;
+    margin-top: 64px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-list {
+    width: 310px;
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+.list {
+    display: flex;
+
+    font-family: Public Sans;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.colorfixed{
+    color:#5FB4A2;
+}
+
+/* FORMATAÇÃO DO RODAPÉ */
+
+.footer {
+
+    margin-top: 150px;
+    width: 100vw;
+    height: 80px;
+
+    background-color: #33323D;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-footer {
+    width: 76vw;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-list {
+
+    width: 330px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer-list .list {
+    font-family: Public Sans;
+    text-decoration: none;
+    font-size: 12px;
+    color: #fff;
+}
+
+.nav-icons img {
+    width: 61px;
+    height: 32px;
+}
+
+/* FORMATAÇÃO DAS ANIMAÇÕES */
+
+.list:hover{
+    color: 
+    rgba(95, 180, 162, 1);
+    transition: 1s;
+}

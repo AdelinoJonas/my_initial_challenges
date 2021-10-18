@@ -1,0 +1,110 @@
+/* FOMATAÇÃO DA MANAGE */
+.central {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ml-1{
+    margin-left: 125px;
+}
+
+.card {
+    display: flex;
+
+    width: 76vw;
+}
+.mt-1{
+    margin-top: 94px;
+}
+
+.mt-2{
+    margin-top: 184px;
+}
+
+.mt-3{
+    margin-top: 80px;
+}
+
+.mt-4{
+    margin-top: 80px;
+}
+
+.img-mana1 {
+    width: 540px;
+    height: 500px;
+}
+
+.descrip{
+    border-top: 1px solid rgba(51, 50, 61, .2);
+    border-bottom: 1px solid rgba(51, 50, 61, .2);
+
+    width: 350px;
+    height: 500px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    justify-self: center;
+}
+
+.text{
+    font-size: 40px;
+}
+
+.description{
+    font-size: 16px;
+    font-family: public sans;
+    line-height: 30px;
+}
+
+.button-pt {
+    all: unset;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid #33323D;
+    box-shadow: rgba(51, 50, 61, .2) 1px 1px 1px 1px;
+
+
+    text-transform: uppercase;
+    font-family: public sans;
+    font-size: 12px;
+
+    width: 15vw;
+    height: 8vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-pt:hover{
+    background-color: #33323D;
+    color: #fff;
+    transition: 1s;
+}
+
+.mr-01{
+    margin-right: 125px;
+}
+
+.contact {
+    margin-top: 150px;
+    width: 76vw;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.size-box {
+    width: 367px;
+}
+
+.me {
+    font-size: 40px;
+    font-weight: 700;
+}

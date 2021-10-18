@@ -1,0 +1,61 @@
+.central{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.contact{
+    margin-top: 94px;
+    padding-top: 48px;
+
+    width: 76vw;
+    display: flex;
+    justify-content: space-between;
+
+    border-top: 1px solid rgba(51, 50, 61, .15);
+    border-bottom: 1px solid rgba(51, 50, 61, .15);
+}
+
+.reception{
+    width: 635px;
+}
+.text{
+    font-size: 40px;
+}
+.text-me{
+    font-family: public sans;
+    font-size: 16px;
+    line-height: 30px;
+    opacity: 0.8;
+
+    padding-bottom:54px;
+}
+
+.icons{
+    width: 104px;
+    margin-bottom: 48px;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.form{
+    width: 76vw;
+
+    margin-top: 47px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.dates{
+    width: 635px;
+    height: 426px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+    font-family: public sans;
+    font-size: 13px;
+}
