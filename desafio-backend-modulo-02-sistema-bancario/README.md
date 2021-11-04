@@ -1,5 +1,3 @@
-![](https://i.imgur.com/xG74tOh.png)
-
 # Desafio Módulo 2 - Back-end
 
 Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
