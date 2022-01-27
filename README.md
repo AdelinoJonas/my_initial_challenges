@@ -1,4 +1,4 @@
-# my_projects
+# Meus projetos do inicio.
 
 Aqui encontram-se projetos produzidos ao término de cada período de estudo, a fim de testar meus conhecimentos e aumentar portfólio.
 
